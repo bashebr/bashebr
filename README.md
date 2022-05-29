@@ -26,7 +26,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: [Coming soon]()
+- Personal website and blog: [https://bgaportfolio.vercel.app/]()
 
 
 ## 🔧 Technologies & Tools
