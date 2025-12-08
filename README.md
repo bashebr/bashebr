@@ -41,9 +41,7 @@ me.say_hi()
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/bashebr/bashebr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashebr&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-</a>
+![Bashebr's GitHub stats](https://github-readme-stats.vercel.app/api?username=bashebr&show_icons=true&theme=radical&show_icons=true)
 
 <a href="https://github.com/bashebr/bashebr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bashebr&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
