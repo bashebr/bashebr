@@ -62,11 +62,3 @@ me.say_hi()
 <a href="https://github.com/bashebr/delete-multiple-repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bashebr&repo=delete-multiple-repositories&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
 </a>
-
-## 👨‍💻 This week, I spent my time on:
-
-- Working on personal projects and learning new security techniques.
-
---- 
-
-If you'd like changes or a different layout, tell me which parts to update and I will apply them.
