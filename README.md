@@ -41,22 +41,27 @@ me.say_hi()
 
 ## 📈 GitHub Stats
 
-![Bashebr's GitHub stats](https://github-readme-stats.vercel.app/api?username=bashebr&show_icons=true&theme=radical&show_icons=true)
-
-<a href="https://github.com/bashebr/bashebr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bashebr&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+<a href="https://github.com/bashebr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-1-virid.vercel.app/api?username=bashebr&theme=radical" />
+</a>
+<a href="https://github.com/bashebr/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-1-virid.vercel.app/api/top-langs?username=bashebr&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bashebr&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bashebr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/bashebr/download-tweets">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bashebr&repo=download-tweets&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+<a href="https://github.com/bashebr/python-boilerplate">
+  <img align="center" src="https://github-readme-stats-1-virid.vercel.app/api/pin/?username=bashebr&repo=python-boilerplate&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+</a>
+
+<a href="https://github.com/bashebr/semantic-search-engine">
+  <img align="center" src="https://github-readme-stats-1-virid.vercel.app/api/pin/?username=bashebr&repo=semantic-search-engine&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
 </a>
 
 <a href="https://github.com/bashebr/delete-multiple-repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bashebr&repo=delete-multiple-repositories&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <img align="center" src="https://github-readme-stats-1-virid.vercel.app/api/pin/?username=bashebr&repo=delete-multiple-repositories&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
 </a>
