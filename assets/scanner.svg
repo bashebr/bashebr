@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="552" viewBox="0 0 820 552" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" role="img" aria-label="bga — security engineer threat assessment terminal">
+  <style>
+    @keyframes a4  {0%,3% {opacity:0;transform:translateY(4px)} 4%,100% {opacity:1;transform:translateY(0)}}
+    @keyframes a11 {0%,10%{opacity:0;transform:translateY(4px)} 11%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes a13 {0%,12%{opacity:0} 13%,100%{opacity:1}}
+    @keyframes a21 {0%,20%{opacity:0} 21%,100%{opacity:1}}
+    @keyframes a29 {0%,28%{opacity:0} 29%,100%{opacity:1}}
+    @keyframes a37 {0%,36%{opacity:0} 37%,100%{opacity:1}}
+    @keyframes a47 {0%,46%{opacity:0;transform:translateY(4px)} 47%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes a50 {0%,49%{opacity:0} 50%,100%{opacity:1}}
+    @keyframes a53 {0%,52%{opacity:0} 53%,100%{opacity:1}}
+    @keyframes a56 {0%,55%{opacity:0} 56%,100%{opacity:1}}
+    @keyframes a59 {0%,58%{opacity:0} 59%,100%{opacity:1}}
+    @keyframes a62 {0%,61%{opacity:0} 62%,100%{opacity:1}}
+    @keyframes a65 {0%,64%{opacity:0} 65%,100%{opacity:1}}
+    @keyframes a70 {0%,69%{opacity:0;transform:translateY(4px)} 70%,100%{opacity:1;transform:translateY(0)}}
+    @keyframes a74 {0%,73%{opacity:0} 74%,100%{opacity:1}}
+    @keyframes a78 {0%,77%{opacity:0} 78%,100%{opacity:1}}
+    @keyframes f1 {0%,13%{transform:scaleX(0)} 20%,100%{transform:scaleX(1)}}
+    @keyframes f2 {0%,21%{transform:scaleX(0)} 28%,100%{transform:scaleX(1)}}
+    @keyframes f3 {0%,29%{transform:scaleX(0)} 36%,100%{transform:scaleX(1)}}
+    @keyframes f4 {0%,37%{transform:scaleX(0)} 44%,100%{transform:scaleX(1)}}
+    @keyframes blink {0%,49%{opacity:1} 50%,100%{opacity:0}}
+
+    .anim   {animation-duration:10s; animation-iteration-count:1; animation-fill-mode:both; animation-timing-function:ease-out;}
+    .fill   {animation-timing-function:cubic-bezier(.2,.8,.2,1); transform-box:fill-box; transform-origin:left center;}
+    text    {fill:#c9d1d9; font-size:14px;}
+    .banner {fill:#39d0d8; font-size:11px; white-space:pre;}
+    .grey   {fill:#6e7681;}
+    .cyan   {fill:#39d0d8;}
+    .red    {fill:#ff6a5f;}
+    .yellow {fill:#e3b341;}
+    .green  {fill:#3fb950;}
+    .b      {font-weight:bold;}
+  </style>
+
+  <rect x="4" y="4" width="812" height="544" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M4 16 A12 12 0 0 1 16 4 H804 A12 12 0 0 1 816 16 V36 H4 Z" fill="#161b22"/>
+  <circle cx="26" cy="20" r="5" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="5" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="5" fill="#27c93f"/>
+  <text x="410" y="25" text-anchor="middle" class="grey" font-size="12">bga — threat-assessment.sh</text>
+
+  <g class="banner">
+    <text x="24" y="62"  class="anim" style="animation-name:a4">  ██████╗  ██████╗  █████╗ </text>
+    <text x="24" y="74"  class="anim" style="animation-name:a4">  ██╔══██╗██╔════╝ ██╔══██╗</text>
+    <text x="24" y="86"  class="anim" style="animation-name:a4">  ██████╔╝██║  ███╗███████║</text>
+    <text x="24" y="98"  class="anim" style="animation-name:a4">  ██╔══██╗██║   ██║██╔══██║</text>
+    <text x="24" y="110"  class="anim" style="animation-name:a4">  ██████╔╝╚██████╔╝██║  ██║</text>
+    <text x="24" y="122"  class="anim" style="animation-name:a4">  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝</text>
+  </g>
+
+  <text x="24" y="150" class="anim" style="animation-name:a11">
+    <tspan class="green">$</tspan> <tspan class="grey">initiating threat assessment...</tspan>
+  </text>
+
+  <g class="anim" style="animation-name:a13">
+    <rect x="24" y="166" width="190" height="10" rx="3" fill="#21262d"/>
+    <rect x="24" y="166" width="190" height="10" rx="3" fill="#39d0d8" class="anim fill" style="animation-name:f1"/>
+    <text x="224" y="175" class="grey">fingerprinting target</text>
+  </g>
+  <g class="anim" style="animation-name:a21">
+    <rect x="24" y="190" width="190" height="10" rx="3" fill="#21262d"/>
+    <rect x="24" y="190" width="190" height="10" rx="3" fill="#39d0d8" class="anim fill" style="animation-name:f2"/>
+    <text x="224" y="199" class="grey">enumerating capabilities</text>
+  </g>
+  <g class="anim" style="animation-name:a29">
+    <rect x="24" y="214" width="190" height="10" rx="3" fill="#21262d"/>
+    <rect x="24" y="214" width="190" height="10" rx="3" fill="#39d0d8" class="anim fill" style="animation-name:f3"/>
+    <text x="224" y="223" class="grey">scoring impact (CVSS)</text>
+  </g>
+  <g class="anim" style="animation-name:a37">
+    <rect x="24" y="238" width="190" height="10" rx="3" fill="#21262d"/>
+    <rect x="24" y="238" width="190" height="10" rx="3" fill="#3fb950" class="anim fill" style="animation-name:f4"/>
+    <text x="224" y="247" class="grey">confirming patch status</text>
+  </g>
+
+  <g class="anim" style="animation-name:a47">
+    <rect x="20" y="270" width="780" height="150" rx="8" fill="#0b0f14" stroke="#30363d"/>
+    <rect x="36" y="263" width="148" height="16" rx="3" fill="#0d1117"/>
+    <text x="44" y="276" class="red b" font-size="12">SECURITY ADVISORY</text>
+  </g>
+
+  <text x="40" y="304" class="anim" style="animation-name:a50"><tspan class="cyan">ID</tspan><tspan x="150" class="b">BGA-1995-0001</tspan></text>
+  <text x="40" y="326" class="anim" style="animation-name:a53"><tspan class="cyan">TITLE</tspan><tspan x="150">Security engineer detected operating in the wild</tspan></text>
+  <text x="40" y="348" class="anim" style="animation-name:a56"><tspan class="cyan">SEVERITY</tspan><tspan x="150" class="red b">CRITICAL</tspan><tspan class="grey">  ·  CVSS 10.0</tspan></text>
+  <text x="40" y="370" class="anim" style="animation-name:a59"><tspan class="cyan">VECTOR</tspan><tspan x="150" class="yellow">AV:N/AC:L/PR:N/UI:N</tspan><tspan class="grey">  (remote · low complexity)</tspan></text>
+  <text x="40" y="392" class="anim" style="animation-name:a62"><tspan class="cyan">STATUS</tspan><tspan x="150" class="green">●</tspan><tspan class="green b"> ACTIVE</tspan><tspan class="grey"> — shipping patches in production</tspan></text>
+  <text x="40" y="414" class="anim" style="animation-name:a65"><tspan class="cyan">LOCATION</tspan><tspan x="150">Netherlands (NL)</tspan></text>
+
+  <text x="24" y="452" class="anim" style="animation-name:a70"><tspan class="cyan">focus</tspan><tspan x="100">CVE triage &amp; remediation · patch backporting · AI-assisted security tooling</tspan></text>
+  <text x="24" y="478" class="anim" style="animation-name:a74"><tspan class="cyan">disclosure</tspan><tspan x="150" class="b">"ship the patch before someone ships the exploit"</tspan></text>
+  <text x="24" y="504" class="anim" style="animation-name:a78"><tspan class="grey">contact</tspan><tspan x="150" class="grey">github.com/bashebr · @bgatwitt</tspan><tspan class="cyan" style="animation:blink 1.1s steps(1) infinite"> █</tspan></text>
+</svg>
