@@ -31,5 +31,6 @@ remediation timeline
 ```
 
 ---
+<a href="https://app.daily.dev/eribga"><img src="https://api.daily.dev/devcards/646991cce50e47ac8887f738318a21fa.png?r=hzf" width="400" alt="Brhane's Dev Card"/></a>
 
 <sub>🔒 disclosed responsibly &nbsp;·&nbsp; 📍 Netherlands &nbsp;·&nbsp; 🐦 [@bgatwitt](https://twitter.com/bgatwitt)</sub>
