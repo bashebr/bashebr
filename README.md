@@ -32,4 +32,18 @@ remediation timeline
 
 ---
 
+```
+contribution activity
+```
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bashebr/bashebr/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bashebr/bashebr/output/snake-light.svg">
+    <img src="https://raw.githubusercontent.com/bashebr/bashebr/output/snake.svg" alt="snake eating bashebr's contribution graph" width="820">
+  </picture>
+</p>
+
+---
+
 <sub>🔒 disclosed responsibly &nbsp;·&nbsp; 📍 Netherlands &nbsp;·&nbsp; 🐦 [@bgatwitt](https://twitter.com/bgatwitt)</sub>
